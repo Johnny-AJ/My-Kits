@@ -36,3 +36,5 @@ kits.primarykey = function () {
   // 两个得到的结果加在一起
   return now + '' + r;
 }
+
+
